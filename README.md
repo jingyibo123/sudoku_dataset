@@ -2,7 +2,7 @@
 
 This repo contains images of sudoku puzzles on paper shot by smartphone cameras, location of the puzzles/digits of these images.
 
-The original images are from this repository https://github.com/wichtounet/sudoku_dataset.
+The original images are from [this repository](https://github.com/wichtounet/sudoku_dataset) .
 
 ## sudoku_images
 Contains the images of puzzles listed in sudoku_images.txt and digits of the puzzle.
@@ -21,7 +21,7 @@ Contains the images of all puzzle grids with their digit boxed.
 
 ## generated_digits
 Image of numerical digits using common fonts. 
-Using the Dataset generator here https://github.com/zafartahirov/not_notMNIST
+Using the Dataset generator [here](https://github.com/zafartahirov/not_notMNIST) 
 Each image are then applied erosion and blur to generate larger datasets.
 
 Listed in generated_digits.txt .

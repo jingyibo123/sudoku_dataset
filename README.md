@@ -1,4 +1,4 @@
-# sudoku_resources
+# sudoku_dataset
 
 This repo contains images of sudoku puzzles on paper shot by smartphone cameras, location of the puzzles/digits of these images.
 

@@ -7,9 +7,15 @@ The original images are from [this repository](https://github.com/wichtounet/sud
 ## sudoku_images
 Contains the images of puzzles listed in [sudoku_images.txt](https://github.com/jingyibo123/sudoku_dataset/blob/master/sudoku_images.txt) and digits of the puzzle.
 
+Example:
+![image](https://github.com/jingyibo123/sudoku_dataset/blob/master/sudoku_images/image1077.jpg)
+
 ## sudoku_grids
 Contains the images of all puzzle grids extracted.
 [sudoku_grids.txt](https://github.com/jingyibo123/sudoku_dataset/blob/master/sudoku_grids.txt) contains the position of the puzzle grid in each image.
+
+Example:
+![image](https://github.com/jingyibo123/sudoku_dataset/blob/master/sudoku_grids/image1077.png)
 
 ## sudoku_cells
 Contains the images of all cells of each puzzle grid extracted.
@@ -17,6 +23,9 @@ Contains the images of all cells of each puzzle grid extracted.
 
 ## gsudoku_grids_boxed_digits
 Contains the images of all puzzle grids with their digit boxed.
+
+Example:
+![image](https://github.com/jingyibo123/sudoku_dataset/blob/master/sudoku_grids_boxed_digits/image1077.png)
 
 ## generated_digits
 Image of numerical digits using common fonts. 
